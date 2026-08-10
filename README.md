@@ -8,3 +8,5 @@ git commit
 git push
 git log
 git log --oneline
+
+.gitignore: to ignore some files
