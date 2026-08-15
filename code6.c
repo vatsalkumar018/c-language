@@ -23,6 +23,12 @@ int main() {
     percent= total/3.0;
     highest = m1;
     lowest = m1;
+    if (m2 > highest){
+    // update highest
+
+    }else if (m2< lowest){
+    // update lowest
+    }
     
     printf("Name: %s\n", name);
     printf("Age: %d\n", age);
