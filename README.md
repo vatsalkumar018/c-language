@@ -1,10 +1,10 @@
-# 💻 C Language
+#  C Language
 
 A beginner-friendly repository containing C programming concepts, basic programs, practice problems, and Git/GitHub practice.
 
 This repository documents my journey of learning **C programming** from the fundamentals and gradually improving my programming logic and problem-solving skills.
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - 🟢 Basic C Syntax
 - 🟢 Variables and Constants
@@ -24,7 +24,7 @@ This repository documents my journey of learning **C programming** from the fund
 - 🟢 Basic Problem Solving
 - 🟢 Beginner-Level Practice Programs
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 c-language/
